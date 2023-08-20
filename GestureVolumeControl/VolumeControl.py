@@ -1,6 +1,6 @@
 import time
 import cv2
-import HandTrackingModel as htm
+from HandDetection import HandTrackingModel as htm
 import math
 from ctypes import cast, POINTER
 from comtypes import CLSCTX_ALL
