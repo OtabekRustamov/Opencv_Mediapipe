@@ -5,7 +5,7 @@ Short description or tagline about the project.
 
 ## Table of Contents
 
-- [AI Trainer](#https://github.com/OtabekRustamov/pythonProject/tree/master/AiTrainer)
+- [AI Trainer](# https://github.com/OtabekRustamov/pythonProject/tree/master/AiTrainer)
   
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
